@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 
 <div align="center">
-  <img src="https://github.com/eras1999/eras1999/blob/main/YourBanner.png" alt="Banner Image">
+  <img src="https://github.com/eras1999/eras1999/blob/main/bannerera2.PNG" alt="Banner Image">
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
