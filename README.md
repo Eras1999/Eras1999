@@ -5,7 +5,10 @@
   <img src="https://github.com/eras1999/eras1999/blob/main/bannerera2.PNG" alt="Banner Image">
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+<img align="right" alt="Coding" width="500" height="320" src="https://github.com/eras1999/eras1999/blob/main/a.gif">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eras1999&label=Profile%20views&color=0e75b6&style=flat" alt="eras1999" />
