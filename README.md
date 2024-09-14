@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eranda Madusanka</h1>
-<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
-
 <div align="center">
   <img src="https://github.com/eras1999/eras1999/blob/main/bannerera2.PNG" alt="Banner Image">
 </div>
+
+
+<h1 align="center">Hi 👋, I'm Eranda Madusanka</h1>
+<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 
 
 
