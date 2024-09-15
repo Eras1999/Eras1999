@@ -98,6 +98,15 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  </a>
+   <a href="https://wordpress.org/" target="_blank">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  </a>
 </p>
 
  
