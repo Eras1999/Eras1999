@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/eras1999)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development **
 
 - 📫 How to reach me: **madushankaeranda56@gmail.com**
 
