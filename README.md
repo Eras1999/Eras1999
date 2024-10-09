@@ -50,6 +50,9 @@
   <a href="https://www.hackerrank.com/madushankaerand1" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
+  <a href="https://www.behance.net/erandamadusha1" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+</a>
 </p>
 
 ---
