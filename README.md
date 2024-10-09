@@ -53,6 +53,10 @@
   <a href="https://www.behance.net/erandamadusha1" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
 </a>
+  <a href="https://eranda.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a>
+
 </p>
 
 ---
