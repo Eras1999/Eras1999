@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hiii 👋, I'm Eranda Madusanka Wijenayake</h1>
-<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
 
 
 
