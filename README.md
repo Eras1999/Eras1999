@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hii 👋, I'm Eranda Madusanka Wijenayake</h1>
+<h1 align="center">Hii 👋, I'm Eranda Madusanka Wijenayake    </h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
 
 
