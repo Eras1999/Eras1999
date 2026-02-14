@@ -74,7 +74,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=eras1999&theme=react-dark&hide_border=true" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eras1999&theme=react-dark&hide_border=true&area=true&color=00FF00&line=00FF00" alt="Contribution Graph" />
 </p>
 
 ---
