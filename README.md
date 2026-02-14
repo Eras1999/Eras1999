@@ -71,11 +71,6 @@
 
 ---
 
-### 🟩 Contribution Bars (2026 Modern)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF5733/eras1999" alt="Contribution Bars" width="700" />
-</p>
 
 
 <div align="center">
