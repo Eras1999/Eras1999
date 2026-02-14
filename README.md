@@ -74,7 +74,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eras1999&theme=react-dark&hide_border=true&area=true&color=00FF00&line=00FF00" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00FFAB/eras1999" alt="GitHub Contribution Heatmap" width="700" />
 </p>
 
 ---
