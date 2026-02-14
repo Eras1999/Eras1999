@@ -74,7 +74,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eras1999/eras1999/output/github-contribution-grid-snake.svg" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=eras1999&theme=react-dark&hide_border=true" alt="Contribution Snake" />
 </p>
 
 ---
