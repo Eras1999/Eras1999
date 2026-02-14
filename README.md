@@ -71,13 +71,12 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🟩 Contribution Bars (2026 Modern)
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FFAB/eras1999" alt="GitHub Contribution Heatmap" width="700" />
+  <img src="https://ghchart.rshah.org/FF5733/eras1999" alt="Contribution Bars" width="700" />
 </p>
 
----
 
 <div align="center">
 
